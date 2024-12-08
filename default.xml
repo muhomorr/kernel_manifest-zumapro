@@ -5,7 +5,7 @@
     fetch="https://android.googlesource.com/" />
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
-    revision="refs/heads/15" />
+    revision="refs/tags/2024120701" />
   <default revision="refs/tags/android-15.0.0_r0.39"
     remote="aosp" sync-j="4" />
 
